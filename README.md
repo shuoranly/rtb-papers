@@ -62,12 +62,15 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Practical Lessons from Predicting Clicks on Ads at Facebook](http://wnzhang.net/share/rtb-papers/fb-ad-ctr.pdf) by Xinran He et al. ADKDD 2014.
 
 ### Bid Landscape
+* [Deep Landscape Forecasting for Real-time Bidding Advertising](https://arxiv.org/abs/1905.03028) by Kan Ren, et al. KDD 2019.
+* [Deep Censored Learning of the Winning Price in the Real Time Bidding](https://dl.acm.org/citation.cfm?id=3219819.3220066) by Wush Wu, et al. KDD 2018.
 * [Predicting Winning Price in Real Time Bidding with Censored Data](http://wnzhang.net/share/rtb-papers/win-price-pred.pdf) by Wush Chi-Hsuan Wu, Mi-Yen Yeh, Ming-Syan Chen. KDD 2015.
 * [Handling Forecast Errors While Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/forecast-err.pdf) by Kevin J. Lang, Benjamin Moseley, Sergei Vassilvitskii. WWW 2012.
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://wnzhang.net/share/rtb-papers/bid-lands.pdf) by Ying Cui et al. KDD 2011.
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](https://dl.acm.org/citation.cfm?id=3330749) by 	Nicolas Grislain et al. KDD 2019.
 * [Optimal Bidding Strategy for Brand Advertising](https://www.ijcai.org/proceedings/2018/0059.pdf) by Takanori Maehara et al. IJCAI 2018.
 * [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018.
 * [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.08365.pdf) by Di Wu et al. ArXiv 2018.
